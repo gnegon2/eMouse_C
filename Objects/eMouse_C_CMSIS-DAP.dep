@@ -1,0 +1,69 @@
+Dependencies for Project 'eMouse_C', Target 'CMSIS-DAP': (DO NOT MODIFY !)
+F (.\main.c)(0x54C28C43)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (buttons.h)(0x54C133C3)
+I (sLCD.h)(0x54610BCC)
+I (uart.h)(0x54C13563)
+I (MMA8451.h)(0x54C0FAD7)
+I (C:\Keil_v5\ARM\ARMCC\include\cstdio)(0x5419F1DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5419F1DC)
+F (.\sLCD.c)(0x54BD4F90)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\slcd.o --omf_browse .\objects\slcd.crf --depend .\objects\slcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (sLCD.h)(0x54610BCC)
+F (.\sLCD.h)(0x54610BCC)()
+F (.\I2C.c)(0x54C28CCD)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (I2C.h)(0x54C1348B)
+I (sLCD.h)(0x54610BCC)
+F (.\I2C.h)(0x54C1348B)()
+F (.\MMA8451.c)(0x54C28C91)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\mma8451.o --omf_browse .\objects\mma8451.crf --depend .\objects\mma8451.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (I2C.h)(0x54C1348B)
+I (MMA8451.h)(0x54C0FAD7)
+I (uart.h)(0x54C13563)
+F (.\MMA8451.h)(0x54C0FAD7)()
+F (.\uart.c)(0x54C28CB1)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+F (.\uart.h)(0x54C13563)()
+F (.\buttons.c)(0x54C139A4)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\buttons.o --omf_browse .\objects\buttons.crf --depend .\objects\buttons.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
+I (buttons.h)(0x54C133C3)
+F (.\buttons.h)(0x54C133C3)()
+F (RTE\Device\MKL46Z256xxx4\startup_MKL46Z4.s)(0x51C01318)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include--pd "_RTE_ SETA 1" --pd "MKL46Z256xxx4 SETA 1"--list .\listings\startup_mkl46z4.lst --xref -o .\objects\startup_mkl46z4.o --depend .\objects\startup_mkl46z4.d)
+F (RTE\Device\MKL46Z256xxx4\system_MKL46Z4.c)(0x54C02458)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork -I "G:\Dysk Google\Studia\In퓓nier\Rok III\Techniki Mikroprocesorowe II\eMouse_C\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include-D_RTE_ -DMKL46Z256xxx4-o .\objects\system_mkl46z4.o --omf_browse .\objects\system_mkl46z4.crf --depend .\objects\system_mkl46z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\MKL46Z4.h)(0x51C01318)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0plus.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.3.0\Device\Include\system_MKL46Z4.h)(0x51C01318)
